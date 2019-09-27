@@ -8,4 +8,3 @@ categories: [openstack]
 
 * `cinder backup-list  /列出所有的backup`
 * `cinder backup {volumeID} --name {backupName}  /创建某个盘的备份`
-* 
